@@ -282,7 +282,7 @@ header::before {
 }
 
 
-.bestsellers__card:hover .bestsellers_rating {
+.bestsellers__card:hover .bestsellers__rating {
   background-color: #ffd900;
 }
 
