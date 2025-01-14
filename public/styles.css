@@ -145,6 +145,11 @@ nav {
   display: none;
 }
 
+.nav__btns .btn a {
+ color: #ffffff;
+}
+
+
 header {
   margin-top: 5rem;
   padding-inline: 1rem;
